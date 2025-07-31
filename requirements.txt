@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+deepface
+numpy
+pandas
+tensorflow==2.17.0
+dlib==19.19.0 
